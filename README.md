@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aya5262
-- 👀 I’m interested in web devoloment and data scince 
+- 👀 I’m interested in web devoloment and data science 
 - 🌱 I’m currently learning  web and python 
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
